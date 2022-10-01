@@ -1,0 +1,16 @@
+D:\arer\ilkprj\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.exe.config
+D:\arer\ilkprj\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.exe
+D:\arer\ilkprj\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.pdb
+D:\arer\ilkprj\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.xml
+D:\arer\ilkprj\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.vbproj.AssemblyReference.cache
+D:\arer\ilkprj\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.vbproj.SuggestedBindingRedirects.cache
+D:\arer\ilkprj\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Form1.resources
+D:\arer\ilkprj\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Hakkımızda.resources
+D:\arer\ilkprj\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Resources.resources
+D:\arer\ilkprj\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.İletişim.resources
+D:\arer\ilkprj\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.vbproj.GenerateResource.cache
+D:\arer\ilkprj\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.vbproj.CoreCompileInputs.cache
+D:\arer\ilkprj\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.exe
+D:\arer\ilkprj\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.xml
+D:\arer\ilkprj\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.pdb
+D:\arer\ilkprj\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Anasayfa.resources
